@@ -3,6 +3,7 @@
 !gradle-wrapper.jar
 gradle/wrapper/gradle-wrapper.properties
 
+/out/ 
 
 .class
 .jar
